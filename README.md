@@ -1,7 +1,7 @@
 *****AMAZON DATA ANALYSIS*****
 SAMPLE AMAZON DATASET ANALYSIS:
                           
-                          This is a guided project by Dataquest.io where the dataset is of a sample one provided by the author. The main aim of this project is to remove unwanted data junk and visualize various field attributes.
+This is a guided project by Dataquest.io where the dataset is of a sample one provided by the author. The main aim of this project is to remove unwanted data junk and visualize various field attributes.
 
 The objectives of this project are:
 
